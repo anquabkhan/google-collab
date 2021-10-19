@@ -1,4 +1,4 @@
-# Data science project to analyse and visualize the space race
+# Data science project to analyse and visualize the space race between diffrent countries
 Project Overview :
 1) Achieved data cleaning by bhecking and cleaning duplicate and missing values
 2) Created various bar charts to visualize and analyse the dataset
