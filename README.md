@@ -11,7 +11,7 @@ Python version- 3.9
 Packages- Pandas, Numpy, plotly, matplotlib, seaborn, datetime, iso3166
 Tools- Google colaboratory 
 
-#Data exploration:
+# Data Exploration:
 This is what my data exploration looks like -
 
 
