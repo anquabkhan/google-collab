@@ -1,10 +1,10 @@
-# Data science project to analyse and visualize the space race between diffrent countries
+# Data science project to analyze and visualize the space race between different countries
 Project Overview:
-1) Achieved data cleaning by bhecking and cleaning duplicate and missing values
-2) Created various bar charts to visualize and analyse the dataset
-3) Created chloropleth graphs to do a country wise analysis of various attributes
-4) Created sunburst graphs to do a heirarchical analysis according to country and organisation
-5) Analyzed the cold war between USA and USSR for space acquisition
+1) Achieved data cleaning by checking and cleaning duplicate and missing values
+2) Created various bar charts to visualize and analyze the dataset
+3) Created chloropleth graphs to do a country-wise analysis of various attributes
+4) Created sunburst graphs to do a hierarchical analysis according to country and organization
+5) Analyzed the cold war between the USA and USSR for space acquisition
 
 # Code and Resources Used:
 Python version- 3.9
